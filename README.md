@@ -4,7 +4,7 @@
 This repository contains a single file with a comprehensive list of serial keys for various software programs. Each key is organized by software name and version in plain text format for easy reference.
 
 ## How to Use
-- Open the [`keys.txt`](## GibHub link - https://github.com/soelinnaing-dev/All-Product-Keys) file to access all the keys.
+- Open the [`keys.txt`](https://github.com/soelinnaing-dev/All-Product-Keys) file to access all the keys.
 - The keys are listed under their respective software and version numbers.
 - To use a key, simply locate the software and version you need, and copy the corresponding serial key.
 

@@ -19,6 +19,7 @@ Microsoft Sql Server 2008 R2 Standard (32-bit) == CXTFT-74V4Y-9D48T-2DMFW-TX7CY
 Microsoft Sql Server 2008 R2 Standard (64-bit) == B68Q6-KK2R7-89WGB-6Q9KR-QHFDW
 Microsoft Sql Server 2008 R2 Working Group == XQ4CB-VK9P3-4WYYH-4HQX3-K2R6Q
 Microsoft Sql Server 2008 R2 Web == FP4P7-YKG22-WGRVK-MKGMX-V9MTM
+
 Microsoft Sql Server 2012 Enterprise Core == FH666-Y346V-7XFQ3-V69JM-RHW28
 Microsoft Sql Server 2012 Business Intelligence == HRV7T-DVTM4-V6XG8-P36T4-MRYT6
 Microsoft Sql Server 2012 Developer == YQWTX-G8T4R-QW4XX-BVH62-GP68Y
@@ -26,21 +27,31 @@ Microsoft Sql Server 2012 Enterprise Server/CAL == 748RB-X4T6B-MRM7V-RTVFF-CHC8H
 Microsoft Sql Server 2012 Standard == YFC4R-BRRWB-TVP9Y-6WJQ9-MCJQ7
 Microsoft Sql Server 2012 Web == FB3W8-YRXDP-G8F8F-C46KG-Q998F
 Microsoft Sql Server 2012 R2 Developer == YQWTX-G8T4R-QW4XX-BVH62-GP68Y
+
 Microsoft Sql Server 2014 Web == J9MBB-R8PMP-R8WTW-8JJRD-C6GGW
 Microsoft Sql Server 2014 Standard == P7FRV-Y6X6Y-Y8C6Q-TB4QR-DMTTK
 Microsoft Sql Server 2014 Developer == 82YJF-9RP6B-YQV9M-VXQFR-YJBGX
 Microsoft Sql Server 2014 Enterprise == 27HMJ-GH7P9-X2TTB-WPHQC-RG79R
 Microsoft Sql Server 2014 Enterprise Core == TJYBJ-8YGH6-QK2JJ-M9DFB-D7M9D
 Microsoft Sql Server 2014 Business Intelligence == GJPF4-7PTW4-BB9JH-BVP6M-WFTMJ
+
 Microsoft Sql Server 2016 Enterprise == MDCJV-3YX8N-WG89M-KV443-G8249
 Microsoft Sql Server 2016 Enterprise Core == TBR8B-BXC4Y-298NV-PYTBY-G3BCP
 Microsoft Sql Server 2016 Standard == B9GQY-GBG4J-282NY-QRG4X-KQBCR
 Microsoft Sql Server 2016 Web == BXJTY-X3GNH-WHTHG-8V3XK-T8243
+
 Microsoft Sql Server 2017 Enterprise == TDKQD-PKV44-PJT4N-TCJG2-3YJ6B
+
 Microsoft Sql Server 2019 Developer == 22222-00000-00000-00000-00000
 Microsoft Sql Server 2019 Enterprise == HMWJ3-KY3J2-NMVD7-KG4JR-X2G8G
 Microsoft Sql Server 2019 Enterprise Core == 2C9JR-K3RNG-QD4M4-JQ2HR-8468J
 Microsoft Sql Server 2019 Standard == PMBDC-FXVM3-T777P-N4FY8-PKFF4
+
+Microsoft Sql Server 2022 Standard	==	FG86G-CHH2T-CB7NJ-XT7D2-V8V4X
+Microsoft Sql Server 2022 Enterprise == J4V48-P8MM4-9N3J9-HD97X-DYMRM
+Microsoft Sql Server 2022 Enterprise Core == 2Q48Q-PB48J-DRCVN-GB844-X2H4Q
+Microsoft Sql Server 2022 Web == 2R97W-F4XNT-T6MYV-3TKB7-6X3JM
+Microsoft Sql Server 2022 Developer == 22222-00000-00000-00000-00000
 
 
 Visual Studio 2017
@@ -90,6 +101,14 @@ VF3N0-AHX8P-H8EYY-G6WNC-X7KW0
 VMWare Workstation 16Pro (16.2.1build-18811642)
 -----------------------------------------------
 ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+
+
+Internt Download Manager(v6.42 build 22)
+------------------------
+Windows10/11	N0Z90-KJTTW-7TZO4-I27A1
+Windows 8.1		XONF7-PMUOL-HU7P4-D1QQX
+Windows 8		PAQ34-MHDIA-1DZUU-H4DB8
+Windows 7		629U7-XLT5H-6SCGJ-2CENZ
 
 
 Nero Burning(v8.1.1.0)
@@ -175,19 +194,6 @@ XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB
 
 Windows 10 Product Key
 ----------------
-
-Pro : VK7JG-NPHTM-C97JM-9MPGT-3V66T
-Pro : NKJFK-GPHP7-G8C3J-P6JXR-HQRJR
-Pro	: 8N67H-M3CY9-QT7C4-2TR7M-TXYCV
-Pro : VK7G-NPHTM-C97JM-9MPGT-3V66T
-Pro : W269N-WFGWX-YVC9B-4J6C9-T83GX
-
-
-Pro N: MH37W-N47XK-V7XM9-C7227-GCQG9
-Pro N: 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
-
-Pro 2016: KNC87-3J2TX-XB4WP-VCPJV-M4FWM
-
 Enterprise: CKFK9-QNGF2-D34FM-99QX2-8XC4K
 Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
 Enterprise: XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
